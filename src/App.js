@@ -3,6 +3,7 @@ import './App.css';
 import React, { useState } from 'react';
 import Button from '@mui/material/Button';
 import Input from '@mui/material/Input';
+import { Analytics } from "@vercel/analytics/react"
 
 
 const  App = () => {
