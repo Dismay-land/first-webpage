@@ -25,7 +25,7 @@ const  App = () => {
           <Input 
           value={inputSearch}
           onChange={(e) => setInputSearch(e.target.value)}
-          placeholder="Type somethin'"
+          placeholder="Type somethin123'"
           key='inputSearch' 
           variant="contained" style={{
             width: '300px',
