@@ -7,6 +7,7 @@ import { Analytics } from "@vercel/analytics/react"
 
 
 const  App = () => {
+  <Analytics/>
   const [inputSearch, setInputSearch] = useState('');
   const [outputSerch, setOutputSearch] = useState('');
   const name = 'Dima'
